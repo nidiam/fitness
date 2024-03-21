@@ -1,0 +1,16 @@
+.main {
+
+    height: 50%;
+   
+   
+}
+
+.image {
+    float: right;
+    background-image: url('./pilates2.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 50%;
+    height: 100%;
+    background-position: center;
+}
