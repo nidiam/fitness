@@ -1,6 +1,8 @@
 .main {
 
     height: 50%;
+    margin-top: 90px;
+    /* background-color: black; */
    
    
 }
@@ -10,7 +12,7 @@
     background-image: url('./pilates2.jpg');
     background-size: contain;
     background-repeat: no-repeat;
-    width: 50%;
-    height: 100%;
-    background-position: center;
+    width: 140%;
+    height: 140%;
+    background-position: right;
 }

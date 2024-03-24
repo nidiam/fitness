@@ -1,4 +1,13 @@
 .Nav {
-    background-color: #FFB6C1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
 }
 
