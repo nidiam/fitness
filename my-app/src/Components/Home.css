@@ -1,18 +1,22 @@
 .main {
 
     height: 50%;
-    margin-top: 90px;
+    background-color:whitesmoke;
+  
     /* background-color: black; */
    
    
 }
 
-.image {
-    float: right;
-    background-image: url('./pilates2.jpg');
-    background-size: contain;
-    background-repeat: no-repeat;
-    width: 140%;
-    height: 140%;
-    background-position: right;
+
+.hero {
+    
 }
+
+
+.hero2{
+    background-image: url('./pilates2.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
