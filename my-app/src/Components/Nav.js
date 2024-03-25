@@ -9,7 +9,7 @@ const Nav = () => {
     <div>
       <AppBar position='static' className="Nav" style={{ height: '13vh', marginBottom: '40px', backgroundColor: 'whitesmoke' }}>
         <div className="nav-buttons">
-          <img src={logo} alt='logo' style={{ height: '80px', width: '80px', position: 'relative', right: '300px' }}></img>
+          <img src={logo} alt='logo' style={{ height: '120px', width: '130px', position: 'relative', right: '300px' , top: '20px' }}></img>
           <Button style={{ backgroundColor: 'pink', color: 'white', marginLeft: '20px' }} className="Button">Home</Button>
           <Button style={{ backgroundColor: 'pink', color: 'white', marginLeft: '20px' }} className="Button">Classes</Button>
           <Button style={{ backgroundColor: 'pink', color: 'white', marginLeft: '20px' }} className="Button">Locations</Button>
